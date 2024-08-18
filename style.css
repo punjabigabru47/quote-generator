@@ -49,6 +49,32 @@ body{
   transform: translate(-50%);
 }
 
+blockquote {
+  font-size: 26px;
+  min-height: 110px;
+}
+
+.quote-box blockquote::before, .quote-box blockquote::after {
+  content: '"';
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
